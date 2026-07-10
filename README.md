@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Array
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -43,4 +46,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
