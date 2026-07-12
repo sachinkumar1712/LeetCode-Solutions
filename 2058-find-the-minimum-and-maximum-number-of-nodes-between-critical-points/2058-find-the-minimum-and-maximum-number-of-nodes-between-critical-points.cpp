@@ -11,46 +11,45 @@
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        int idx = 1;
-        int fidx = -1;
-        int sidx = -1;
+
+        if(head == NULL || head->next == NULL || head->next->next == NULL)
+            return {-1,-1};
+
         ListNode* a = head;
         ListNode* b = head->next;
         ListNode* c = head->next->next;
 
-        while(c!=NULL){
-            if(b->val > a->val && b->val > c->val || b->val < a->val && b->val < c->val){
-                if(fidx==-1) fidx = idx;
-                else sidx = idx;
-            }
-            a=a->next;
-            b=b->next;
-            c=c->next;
-            idx++;
-        }
-        if(sidx==-1) return{-1,-1};
-        int maxD = sidx - fidx;
-        int minD = INT_MAX;
-        idx = 1;
-        fidx = -1;
-        sidx = -1;
-        a = head;
-        b = head->next;
-        c = head->next->next;
-        while(c!=NULL){
-            if(b->val > a->val && b->val > c->val || b->val < a->val && b->val < c->val ){
-                fidx = sidx;
-                sidx = idx;
-                if(fidx!=-1){
-                   int d = sidx - fidx;
-                   minD = min(minD,d); 
+        int idx = 1;
+        int first = -1;
+        int last = -1;
+        int minDist = INT_MAX;
+        int maxDist = -1;
+
+        while(c != NULL){
+
+            if((b->val > a->val && b->val > c->val) ||
+               (b->val < a->val && b->val < c->val)){
+
+                if(first == -1){
+                    first = idx;
+                    last = idx;
+                }
+                else{
+                    minDist = min(minDist, idx - last);
+                    maxDist = idx - first;
+                    last = idx;
                 }
             }
-            a=a->next;
-            b=b->next;
-            c=c->next;
+
+            a = a->next;
+            b = b->next;
+            c = c->next;
             idx++;
         }
-        return{minD,maxD};
+
+        if(maxDist == -1)
+            return {-1,-1};
+
+        return {minDist, maxDist};
     }
 };
