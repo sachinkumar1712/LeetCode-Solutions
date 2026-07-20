@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0204-count-primes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1664-ways-to-make-a-fair-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1664-ways-to-make-a-fair-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2326-spiral-matrix-iv](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
@@ -99,12 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
