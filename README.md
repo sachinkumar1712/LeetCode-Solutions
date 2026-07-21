@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Enumeration
 |  |
 | ------- |
