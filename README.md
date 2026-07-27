@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## Array
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0189-rotate-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0896-monotonic-array) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
