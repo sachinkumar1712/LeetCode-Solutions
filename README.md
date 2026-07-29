@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
