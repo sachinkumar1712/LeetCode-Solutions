@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## String
 |  |
 | ------- |
