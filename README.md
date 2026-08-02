@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Enumeration
 |  |
 | ------- |
