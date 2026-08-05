@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0560-subarray-sum-equals-k](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0896-monotonic-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1664-ways-to-make-a-fair-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1664-ways-to-make-a-fair-array) |
 ## Brainteaser
 |  |
