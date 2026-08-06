@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -183,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
