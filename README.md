@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-prime-palindrome](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0866-prime-palindrome) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -188,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
