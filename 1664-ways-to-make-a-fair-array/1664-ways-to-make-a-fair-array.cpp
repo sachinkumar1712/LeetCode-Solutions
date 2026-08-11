@@ -28,6 +28,6 @@ public:
             leftOdd+=nums[i];
         }
       }
-      return count;;
+      return count;
     }
 };
