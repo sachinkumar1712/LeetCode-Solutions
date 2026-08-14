@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## String
@@ -190,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
