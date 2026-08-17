@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2544-alternating-digit-sum](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [3024-type-of-triangle](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
