@@ -23,13 +23,12 @@ public:
             temp->next = new ListNode(digit);
             temp = temp->next;
             if(l1!=NULL){
-               l1 = l1->next;
+                l1 = l1->next;
             }
             if(l2!=NULL){
                 l2 = l2->next;
             }
-
         }
-        return ans->next;
+       return ans->next;
     }
 };
