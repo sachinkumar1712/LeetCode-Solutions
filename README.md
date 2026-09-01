@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0503-next-greater-element-ii](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0682-baseball-game) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0595-big-countries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
