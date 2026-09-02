@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2326-spiral-matrix-iv](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3024-type-of-triangle](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
@@ -294,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
