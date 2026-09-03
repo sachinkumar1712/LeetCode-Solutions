@@ -1,8 +1,7 @@
 class MinStack {
 public:
     stack<int>st;
-    stack<int>min;
-
+    stack<int> min;
     MinStack() {
         
     }
@@ -15,8 +14,7 @@ public:
             st.push(value);
             if(min.top()<value){
                 min.push(min.top());
-            }
-            else{
+            }else{
                 min.push(value);
             }
         }
