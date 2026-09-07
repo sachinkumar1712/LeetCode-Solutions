@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-prime-palindrome](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0866-prime-palindrome) |
+| [1154-day-of-the-year](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [1154-day-of-the-year](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 ## Bit Manipulation
 |  |
 | ------- |
