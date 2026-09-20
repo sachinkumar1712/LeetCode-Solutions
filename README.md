@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2326-spiral-matrix-iv](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1154-day-of-the-year](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
+| [3498-reverse-degree-of-a-string](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
