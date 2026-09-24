@@ -39,9 +39,9 @@ public:
             if(root->left!=NULL && root->right != NULL){
                 //replace with root with its inorder predecessor/successor
                 //after replacing delete the pred/suc
-                TreeNode* pred = inorderPredecessor(root);
-                root->val = pred->val;
-                root->left = deleteNode(root->left ,pred->val);
+                TreeNode* succ =  inorderSuccessor(root);
+                root->val = succ->val;
+                root->right = deleteNode(root->right ,succ->val);
             }
         }
          //leaf child
