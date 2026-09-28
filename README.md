@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
 |  |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1154-day-of-the-year](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
