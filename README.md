@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1748-sum-of-unique-elements](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Queue
 |  |
@@ -474,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Monotonic Queue
 |  |
