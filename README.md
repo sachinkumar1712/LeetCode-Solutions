@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -527,4 +529,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
