@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
