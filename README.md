@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1154-day-of-the-year](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Queue
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search Tree
 |  |
