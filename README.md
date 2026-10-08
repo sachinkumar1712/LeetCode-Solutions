@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -554,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
