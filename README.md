@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1154-day-of-the-year](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search Tree
 |  |
