@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0860-lemonade-change](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
