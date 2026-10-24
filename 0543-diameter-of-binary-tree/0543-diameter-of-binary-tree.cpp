@@ -12,15 +12,14 @@
 class Solution {
 public:
     int levels(TreeNode* root){
-        if(root == NULL) return 0;
+        if(root==NULL) return 0;
         return 1 + max(levels(root->left),levels(root->right));
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        if(root == NULL) return 0;
-        int x = levels(root->left) + levels(root->right);
-        int y = diameterOfBinaryTree(root->left);
-        int z = diameterOfBinaryTree(root->right);
-        return max(x,max(y,z));
-
+        if(root==NULL) return 0;
+        int diameter = levels(root->left) + levels(root->right);
+        int left = diameterOfBinaryTree(root->left);
+        int right = diameterOfBinaryTree(root->right);
+        return max(diameter,max(left,right)); 
     }
 };
