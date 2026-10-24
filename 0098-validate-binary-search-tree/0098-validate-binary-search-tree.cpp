@@ -11,30 +11,20 @@
  */
 class Solution {
 public:
-    class Triplet{
-        public:
-        long long maxi;
-        long long mini;
-        bool isBST;
-        Triplet(long long maxi,long long mini,bool isBST){
-            this->maxi = maxi;
-            this->mini = mini;
-            this->isBST = isBST;
-        }
-
-    };
-    Triplet maxMinIsBST(TreeNode* root){
-        if(root == NULL) return Triplet(LLONG_MIN, LLONG_MAX,true);
-        Triplet left = maxMinIsBST(root->left);
-        Triplet right = maxMinIsBST(root->right);
-        long long val = root->val;
-        long long  mx = max(val,max(left.maxi,right.maxi));
-        long long  mn = min(val,min(left.mini,right.mini));
-        bool isBST = (val > left.maxi && val< right.mini) && left.isBST && right.isBST;
-        return Triplet(mx,mn,isBST);
+    void inorder(TreeNode* root,vector<int>& ans){
+        if(root == NULL) return;
+        inorder(root->left,ans);
+        ans.push_back(root->val);
+        inorder(root->right,ans);
     }
     bool isValidBST(TreeNode* root) {
-        Triplet ans = maxMinIsBST(root);
-        return ans.isBST;
+        vector<int> ans;
+        inorder(root,ans);
+        for(int i=1;i<ans.size();i++){
+            if(ans[i]<=ans[i-1]){
+                return false;
+            }
+        }
+        return true;
     }
 };
