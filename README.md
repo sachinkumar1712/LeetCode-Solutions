@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
