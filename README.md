@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1046-last-stone-weight](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2326-spiral-matrix-iv](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sachinkumar1712/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Memoization
 |  |
 | ------- |
